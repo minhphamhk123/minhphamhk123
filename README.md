@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**minhphamhk123/minhphamhk123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +9,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<p align="center"> <img src="https://streak-stats.demolab.com?user=minhphamhk123&theme=vue-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats" alt="Github Streak" /> </p>
