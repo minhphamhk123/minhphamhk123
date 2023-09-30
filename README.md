@@ -11,3 +11,5 @@
 - ⚡ Fun fact: ...
 
 <p align="center"> <img src="https://streak-stats.demolab.com?user=minhphamhk123&theme=vue-dark&date_format=j%20M%5B%20Y%5D" alt="Github Streak"/> </p>
+
+<p align="center"> <img src="https://leetcard.jacoblin.cool/BanhMiMamTom?theme=dark&font=Noto%20Naskh%20Arabic&ext=heatmap" alt="Language Stats" /> </p>
