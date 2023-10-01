@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&&&&color=0:F27BE,100:8B98F2&height=100&fontColor=ffffff&animation=scaleIn&fontAlignY=30&section=header)
-<p align="center" ><img src="./readme/pusheencode.gif" style="border-radius: 20px;" alt="Hero kenzan" /></p>
+<p align="center" ><img src="./tumblr_n3u4yyNjcE1rjsp9zo2_500.gif" style="border-radius: 20px;" alt="Hero kenzan" /></p>
 <h1 align="center">
  <i>Hi, I'm Minh</i>
   <br>
