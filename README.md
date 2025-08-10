@@ -1,11 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&&&&color=0:F27BE,100:8B98F2&height=100&fontColor=ffffff&animation=scaleIn&fontAlignY=30&section=header)
 <p align="center" ><img src="./tumblr_n3u4yyNjcE1rjsp9zo2_500.gif" style="border-radius: 20px;" alt="Hero kenzan" /></p>
 <h1 align="center">
- <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F7726A&lines=Hi+there!+👋;I'm+Minh%2C+a+Front-End+Developer;Based+in+Japan+🇯🇵;Let's+build+something+awesome!)](https://git.io/typing-svg)
+ <!-- Typing Animation -->
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F7726A&lines=Hi+there!+👋;I'm+a+Front-End+Developer;Based+in+Japan+🇯🇵;Let's+save+the+world!" alt="Typing SVG" />
+  </a>
+</p>
 
-<img align="right" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="120" alt="Avatar placeholder" />
- <i>I’m **Minh**, a **Front-End Developer** at [Tomato JP (トマト)](https://www.jptomato.com/en) 🇯🇵.</i>
+<!-- Avatar -->
+<img align="right" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="120" alt="Avatar placeholder" />  
+<p>
+  I’m <strong>Minh</strong>, a <strong>Front-End Developer</strong> at 
+  <a href="https://www.jptomato.com/en" target="_blank">Tomato JP (トマト)</a> 🇯🇵.<br/>
+</p>
   <br>
   <i>こんにちは、ミンです·</i>
 </h1>
@@ -13,8 +21,10 @@
 
 <ul>
   <li>🥳🎉 <img style="margin-left: 4px"src="https://komarev.com/ghpvc/?username=minhphamhk123&color=blue" alt="Minh Pham" /></li>
+  <br>
+  <li>I love turning ideas into beautiful, functional web experiences, striving to learn more and bring world peace.</li>
   <li>Outside of coding, you’ll probably find me exploring local cafés, diving into indie Japanese music,  
-or geeking out about anime and movies.<li>
+or geeking out about anime and movies.</li>
   <br>
   <li>Let’s connect and build something awesome together! 🚀</li>
 </ul>
